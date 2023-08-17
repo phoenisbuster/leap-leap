@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name" translatable="false">Leap Leap</string>
+    <string name="app_name_2" translatable="false">STG</string>
+    <string name="facebook_app_id">414495703672782</string>
+    <string name="fb_login_protocol_scheme">fb414495703672782</string>
+    <string name="facebook_client_token">fa35bc1ea57e1b58e398fd9417b56e74</string>
+
+<!--    zalo-->
+    <string name="appID">3245225691777441321</string>
+</resources>
+<!--    jsb-link\frameworks\runtime-src\proj.android-studio\res\values-->

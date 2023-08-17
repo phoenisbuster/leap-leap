@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343551983444",
+    "project_id": "chill-games-ffa7c",
+    "storage_bucket": "chill-games-ffa7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343551983444:android:916d4e6911800d0c12d2c1",
+        "android_client_info": {
+          "package_name": "com.henxui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343551983444-uoro8efkou329t2fo49km2nvlit0uq7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpaadjI5Ul68ituAeikxvAPOwJl0DBeVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343551983444-uoro8efkou329t2fo49km2nvlit0uq7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

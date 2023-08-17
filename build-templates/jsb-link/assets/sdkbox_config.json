@@ -1,0 +1,62 @@
+{
+  "android": {
+    "Firebase": {},
+    "UnityAds": {
+      "gameId": "5065393",
+      "testMode": false,
+      "ads": {
+        "banner": {
+          "type": "banner",
+          "width": 300,
+          "height": 50,
+          "placement": "Banner_Android",
+          "alignment": "bottom"
+        },
+        "Interstitial": {
+          "placement": "Interstitial_Android"
+        }
+      }
+    },
+    "sdkboxplay": {
+      "leaderboards": [
+        {
+          "id": "CgkI0sux8sMWEAIQAA",
+          "name": "Ranking"
+        }
+      ],
+      "connect_on_start": false,
+      "cloud_save": false,
+      "debug": true
+    }
+  },
+  "ios": {
+    "Firebase": {},
+    "UnityAds": {
+      "gameId": "5065392",
+      "testMode": false,
+      "ads": {
+        "banner": {
+          "type": "banner",
+          "width": 300,
+          "height": 50,
+          "placement": "Banner_iOS",
+          "alignment": "bottom"
+        },
+        "Interstitial": {
+          "placement": "Interstitial_iOS"
+        }
+      }
+    },
+    "sdkboxplay": {
+      "leaderboards": [
+        {
+          "id": "CgkI0sux8sMWEAIQAA",
+          "name": "Ranking"
+        }
+      ],
+      "connect_on_start": false,
+      "cloud_save": false,
+      "debug": true
+    }
+  }
+}

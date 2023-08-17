@@ -1,0 +1,28 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'GAME-STG-desktop' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for GAME-STG-desktop
+
+end
+
+target 'GAME-STG-mobile' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for GAME-STG-mobile
+   pod 'Firebase', '8.8.0'
+   pod 'Firebase/Core', '8.8.0'
+   pod 'Firebase/DynamicLinks', '8.8.0'
+   pod 'Firebase/Messaging', '8.8.0'
+   pod 'Firebase/Analytics', '8.8.0'
+   pod 'Firebase/Crashlytics'
+   pod 'FBSDKCoreKit', '12.1.0'
+   pod 'FBSDKLoginKit', '12.1.0'
+   pod 'FBSDKShareKit', '12.1.0'
+   pod 'FBSDKGamingServicesKit', '12.1.0'
+   pod 'ZaloSDK'
+end

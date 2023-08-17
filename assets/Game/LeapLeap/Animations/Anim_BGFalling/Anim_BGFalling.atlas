@@ -1,0 +1,41 @@
+
+Anim_BGFalling.png
+size: 668,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eff_Falling/Eff1
+  rotate: false
+  xy: 587, 166
+  size: 53, 162
+  orig: 53, 162
+  offset: 0, 0
+  index: -1
+Eff_Falling/Eff2
+  rotate: false
+  xy: 587, 2
+  size: 53, 162
+  orig: 53, 162
+  offset: 0, 0
+  index: -1
+Eff_Falling/Eff3
+  rotate: false
+  xy: 642, 166
+  size: 23, 162
+  orig: 23, 162
+  offset: 0, 0
+  index: -1
+Eff_Falling/Eff4
+  rotate: false
+  xy: 580, 7
+  size: 5, 321
+  orig: 5, 324
+  offset: 0, 0
+  index: -1
+Falling_BG
+  rotate: false
+  xy: 2, 4
+  size: 576, 324
+  orig: 576, 324
+  offset: 0, 0
+  index: -1

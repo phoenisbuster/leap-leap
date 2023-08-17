@@ -1,0 +1,12 @@
+{
+  "$dev_addressConfig": [
+    "https://firebasestorage.googleapis.com/v0/b/gameeagles-66e75.appspot.com/o/config_stg_leapleap.json?alt=media"
+  ],
+  "addressConfig": [
+    "https://firebasestorage.googleapis.com/v0/b/gameeagles-66e75.appspot.com/o/config_stg_leapleap.json?alt=media"
+  ],
+  "$beta_addressConfig": [
+    "https://firebasestorage.googleapis.com/v0/b/gameeagles-66e75.appspot.com/o/config_stg_leapleap.json?alt=media"
+  ],
+  "env": "stg"
+}

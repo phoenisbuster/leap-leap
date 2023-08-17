@@ -1,0 +1,41 @@
+
+Anim_PlatformBroken.png
+size: 528,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 395, 14
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 463, 13
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 328, 11
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+Broken
+  rotate: false
+  xy: 2, 6
+  size: 175, 48
+  orig: 175, 48
+  offset: 0, 0
+  index: -1
+smokeee
+  rotate: false
+  xy: 179, 2
+  size: 147, 52
+  orig: 147, 54
+  offset: 0, 0
+  index: -1

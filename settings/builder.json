@@ -1,0 +1,60 @@
+{
+  "title": "LeapLeap",
+  "packageName": "org.cocos2d.demo",
+  "startScene": "c7547dee-d2d7-41cd-aeed-4a770d2d9a5b",
+  "excludeScenes": [
+    "4bb1f087-92fd-4423-badb-7f5e41de01bd",
+    "28327d32-efaf-44d0-9bed-e90f930d13be",
+    "3b00af57-fc65-4d51-b5e3-5210c7c6a013",
+    "813a55e6-68a4-40d8-b375-d418711fad75"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "webOrientation": "auto",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mainCompressionType": "default",
+  "mainIsRemote": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": true,
+  "nativeMd5Cache": false,
+  "encryptJs": true,
+  "xxteaKey": "1921bc2b-9e14-47",
+  "zipCompressJs": false,
+  "fb-instant-games": {},
+  "android": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "com.henxui"
+  },
+  "ios": {
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true,
+    "packageName": "com.henxui"
+  },
+  "mac": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "packageName": "org.cocos2d.demo",
+    "width": 1280
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "width": 1280
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "agreements": {}
+}

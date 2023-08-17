@@ -1,0 +1,17 @@
+{
+    "owners": [""],
+    "notify_channels": {
+      "dev": {
+        "channel": "cocos-beta-alert",
+        "additional_receivers": []
+      },
+      "stg": {
+        "channel": "cocos-stg-alert",
+        "additional_receivers": []
+      },
+      "beta": {
+        "channel": "cocos-dev-alert",
+        "additional_receivers": []
+      }
+    }
+  }

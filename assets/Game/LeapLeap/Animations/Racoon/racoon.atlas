@@ -1,0 +1,55 @@
+
+racoon.png
+size: 380,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Than
+  rotate: false
+  xy: 243, 318
+  size: 126, 92
+  orig: 126, 92
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 243, 412
+  size: 137, 109
+  orig: 137, 109
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 164, 2
+  size: 103, 57
+  orig: 103, 57
+  offset: 0, 0
+  index: -1
+falling_phase
+  rotate: false
+  xy: 2, 6
+  size: 160, 305
+  orig: 160, 305
+  offset: 0, 0
+  index: -1
+falling_phase2
+  rotate: false
+  xy: 2, 313
+  size: 239, 236
+  orig: 239, 236
+  offset: 0, 0
+  index: -1
+racoon_jump
+  rotate: false
+  xy: 164, 61
+  size: 214, 250
+  orig: 214, 250
+  offset: 0, 0
+  index: -1
+tai
+  rotate: true
+  xy: 269, 10
+  size: 49, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
